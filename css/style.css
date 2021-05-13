@@ -1,0 +1,44 @@
+body {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1440px;
+}
+
+header {
+	align-items: center;
+	display: flex;
+	width: 1400px;
+	justify-content: space-between;
+}
+.header__logo {
+	height: 60px;
+	width: 60px;
+}
+
+header img {
+	width: 100%;
+}
+nav a:nth-child(2) {
+	margin: 0 56px;
+}
+nav a:nth-child(4) {
+	margin-left: 65px;
+}
+h1 {
+	text-align: center;
+}
+.container {
+	align-items: center;
+	display: flex;
+}
+.container_titulo{
+    margin-left: 11px;
+}
+.container__text {
+	margin-left: 16px;
+	width: 691px;
+}
+.container__lastext {
+	margin-right: 16px;
+	width: 691px;
+}
