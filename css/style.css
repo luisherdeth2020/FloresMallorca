@@ -47,14 +47,14 @@ h1 {
 	align-items: center;
 	display: flex;
 }
-.container_titulo {
+.container__titulo {
 	margin-left: 11px;
 }
-.container__text {
+.container__right {
 	margin-left: 16px;
 	width: 691px;
 }
-.container__lastext {
+.container__left {
 	margin-right: 16px;
 	width: 691px;
 }
