@@ -48,16 +48,17 @@ h1 {
 	display: flex;
 	margin: 0;
 }
+.container__foto{
+	width: 50%;
+}
 .container__titulo {
 	margin-left: 11px;
 }
 .container__right {
 	margin-left: 16px;
-	width: 691px;
 }
 .container__left {
 	margin-right: 16px;
-	width: 691px;
 }
 
 footer {
